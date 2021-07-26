@@ -1,0 +1,1410 @@
+2008 to 2014 KGAC
+2014 to 2019 Malaysia
+2019 to Present MCN
+==================
+logistics password changed @ 25-05-2021
+logistics\cgodugu
+Reset@789
+====================================================================
+aesvpn.agility.com   Reset345(System password) logisticsdev Credentials
+
+vpn.agility.com    cgodugu   Reset678  (logistics credentials) outlook 
+
+=================================================================================
+
+
+
+
+
+Application No:	TS007/8856/2021/R
+License/ Registration NO:	AP09BA8239
+
+
+Thank you for submitting form on NVSP. Your form reference id is OQJ986059436
+
+
+https://www.youtube.com/watch?v=3c-iBn73dDE
+
+http://10.138.108.44/MCKWFX5Test/Main.aspx
+
+
+
+Your Application Submitted Successfully.
+Your Application No.: F180130145535565 for FORM18
+
+
+Sindha: 
+=======
+Amazon--4024 Rs on 19-11-2020
+Amazon--7184 Rs on 20-11-2020
+Myntra--3278 Rs on 21-11-2020
+
+
+g6pt3
+
+===========================================================================================================================
+
+D:\Old HDD Backup\JMeterSoftware\apache-jmeter-3.1\apache-jmeter-3.1\bin
+===========================================================================================================================
+yadaiahkusuma@gmail.com
+Sindhusachin@1
+
+9553 921 292...Ekantham
+
+http://10.138.108.29:9038/Account/Login
+https://jira.agility.com/secure/Dashboard.jspa
+
+https://pwctepm.agility.com/PWA/default.aspx
+
+https://transfora.agility.com/account/logout
+
+http://eformsbi.agility.com/DotnetPages/ReportsEngine/Home.aspx
+
+
+Tuesday, Mar 24, 2020 8:30 am | 1 hour | (UTC+03:00) Kuwait, Riyadh
+Occurs every Tuesday, Thursday, Friday effective 3/24/2020 until 3/27/2020 from 11:00 AM to 12:00 PM, (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Meeting number: 166 898 688
+Password: 8ruErVSZG33
+
+Click on following link or copy and paste it in browser:
+
+https://agilitypwc.webex.com/agilitypwc/j.php?MTID=m2f7f4885a52c3c6164008128ef458818
+
+Meeting number: 166 898 688
+Password: 8ruErVSZG33
+CVR:9849853355
+
+
+
+
+
+
+What is IdP authentication?
+An identity provider (abbreviated IdP or IDP) is a system entity that creates, maintains, and manages identity information for principals while providing authentication services to relying applications within a federation or distributed network. Identity providers offer user authentication as a service.
+
+
+==========================================================================================================================================================
+
+KGAC-VPN:103415161112.
+========
+
+push
+
+radccs.kgac.gov.kw to connect 
+radccs.kgac.gov.kw
+kgac-
+KGAC-DC-HYD-DEV
+group name
+
+ka.mohan
+ 
+ca.godugu
+Kg@c#240621
+
+
+Jn.princily  
+Kg@c#12895
+
+Remote Access-WFH --Hyd Network
+==============================
+
+username: CGodugu 
+password: Ap3Ndwhy@!@1234$
+
+Username: jprincily
+Password: A$p#ny168
+
+==========================================================================================================================================================
+
+UCustoms-PT-Scripts:
+=====================
+D:\uCustoms-PT\Release2\Scripts\Final Execution Scripts\For_Execution_20170920_revised\For_Execution_20170920_revised\04_Declaration
+
+====================================================================================================================================
+
+
+Profile			Mali ID	Password
+=========================================
+Shipping Agent		smaddala@agility.com
+			Agility@123
+Trader			Bnalla@agility.com/moarshad@agility.com
+ 
+Inspector Supervisor	Inspectorsupervisor@customs.com
+ 
+Inspector		Inspector@customs.com
+ 
+Inspector Team Lead	ITeamLead@customs.com
+ 
+NCC Officer		NCCofficer1@customs.com
+ 
+Verification Supervisor	Verificationsupervisor@customs.com
+ 
+Verification Officer	Verificationofficer@customs.com
+ 
+Classification Officer	Classificationofficer@customs.com
+ 
+Valuation Officer	Valuationofficer@customs.com
+ 
+Cashier			Cashier@customs.com
+ 
+CEA Officer		saleena@agility.com
+ 
+  
+DEC-IMP-B1F-11192019/0000134
+REL-GP-B1F-11252019/0000008
+
+DYNATRACE-ADD-DYNATRACE HAEADER ---
+=============================================================================================
+1. download the Dt-LoadRunner-request-tagging(Jar file)
+
+2. place it to  C:\Program Files\Java\jre1.8.0_181\lib\Dt-LoadRunner-request-tagging-1.1.2.jar
+
+3. execute to below command to addDynatraceheaders in LR Script
+
+cmd>>C:\Users\cgodugu.LOGISTICSDEV>java -jar "C:\Program Files\Java\jre1.8.0_181\lib\
+Dt-LoadRunner-request-tagging-1.1.2.jar" insert -path C:\Users\cgodugu.LOGISTICSDEV\Desktop\FX-NExT-LR\36Server\Cargo_DO_Issue_36Server_V10_01072019
+
+LR Script path: C:\Users\cgodugu.LOGISTICSDEV\Desktop\FX-NExT-LR\36Server\Cargo_DO_Issue_36Server_V10_01072019
+
+**
+java -jar "C:\Program Files\Java\jre1.8.0_181\lib\Dt-LoadRunner-request-tagging-1.1.2.jar" insert -path C:\Users\cgodugu.LOGISTICSDEV\Desktop\FX-NExT-LR\Declaration_Script_V1_10062019
+
+C:\Users\cgodugu.LOGISTICSDEV\Desktop\FX-NExT-LR\PP-36Server\Submit_Journey_V1_09072019
+
+java -jar "C:\Program Files\Java\jre1.8.0_181\lib\Dt-LoadRunner-request-tagging-1.1.2.jar" insert -path C:\Users\cgodugu.LOGISTICSDEV\Desktop\FX-NExT-LR\PP-36Server\Submit_Journey_V1_09072019
+
+
+=======================================================================
+
+
+1. https://www.blazemeter.com/blog/using-regular-expressions-to-extract-tokens-and-session-ids-to-variables
+
+log.info("***************************"+vars.get("XSRF-TOKEN"))
+
+2. http://blogs.quovantis.com/jmeter-authorization-with-dynamic-access-token/
+
+
+
+https://www.dynatrace.com/support/help/setup-and-configuration/integrations/third-party-integrations/test-automation-frameworks/dynatrace-and-jmeter-integration/
+
+
+D:\Old HDD Backup\Automation Tools\JMeter\JMeter5.0\apache-jmeter-5.0\apache-jmeter-5.0
+
+http://10.138.108.44/MCKWFX5Test/Main.aspx
+
+AWS concepts----free
+
+AWS essentials----free
+
+AWS DevOps
+
+Docker----
+
+
+
+10.138.108.34  ===== New Server
+
+http://10.138.108.36:8005/Account/Login
+
+
+http://10.138.108.32:8005/Account/Login
+
+http://10.138.108.29:9005/Account/Login
+
+
+Cargo:
+======
+	** kchitikena@agility.com(Agility@1234) ===Shipping
+	** userId=fbc10980-e012-471d-bdad-5157bb97bf2b
+	** defaultRole: "7ed5bb5a-662f-488e-9f67-8df79cf866c6"
+
+Declarations:
+============	
+
+	** Trader: moarshad@agility.com(Agility@123) 
+		DEC NO: DEC-IMP-B1F-11122019/0000011
+
+	
+Inspections:
+============
+
+	** Inspector Supervisor	Inspectorsupervisor@customs.com
+	** Inspector	Inspector@customs.com
+	** Inspector Team Lead	ITeamLead@customs.com 
+ 
+Assesments:
+===========
+		* verificationsupervisor@customs.com
+		* verificationofficer@customs.com
+		* moarshad@agility.com (Accept and bill will be generated once accepted by Trader)
+			Sign In Trader
+			Go to Assessment >> Assessment Request
+			Search for Assessment completed record
+			Open Assessment request
+			Click Accept
+			Sign out.
+
+Note: Bill will be generated once assessment is accepted by trader.
+
+Payments:
+==========
+
+		* Trader:
+			
+			Sign In Trader(moarshad@agility.com)
+			Go to Payment menu ?Bill
+			Select the Bill and click Make Payment button.
+			Select Customs Counter
+			Select Transaction Type: Cash
+			Create Payment Info
+			Click on Add Payment transaction
+			Create Payment Transaction
+			Submit Payment.
+			Sign out.
+			
+			Note: Once Payment is collected by Cahier status of the declaration will change to �Cleared� and the trader can initiate Clearance process.
+			
+		* Cahsier:
+		
+			Sign In Casheir(cashier@customs.com)
+			Go to Payment ? Payment List
+			Open the submitted Payment
+			Click Collect
+			Sign out.
+
+			Note: Payment status will be changed to collected and the Declaration status will change to cleared.
+
+			
+
+http://10.138.108.82:8005/Account/Login
+
+
+
+
+Tariff Item Codes: 
+================ 
+
+7287.95.2233�
+item with Duty
+
+
+9292.92.898�
+9898.98.8686
+
+1112.12.1212
+
+0709.99
+
+Tariff Item Id: 101320 for 9898.98.8686�
+
+
+2801.28.2019  ---ID:9----Recent 32Server New Copy---09-01-2020
+
+
+
+101403
+
+
+
+
+
+
+
+=============================================================================================
+
+
+${user_SessionID}
+
+${user_Token}
+
+Authorization Bearer ${user_Access_Token}
+
+${user_Access_Token}
+${user_Access_Token1}
+${user_Access_Token2}
+
+
+${Declaration_ID}
+
+${temp_Decl_Num}
+
+
+${invoice_ID}
+
+${invoiceItem_ID}
+
+${invoice_Number}
+
+${Decl_No}
+
+${Declaration_Date}
+	
+${Invoice_Date}	
+
+${inspection_Id}
+${inspection_No}
+${declaration_Id}
+${declaration_No}
+${Report_Id}
+${Report_No}
+
+
+Assesments:
+===========
+DEC-IMP-B1F-11192019/0000127   AS-REQ-CUS-0017-000481
+
+DEC-IMP-B1F-11192019/0000088   
+AS-REQ-CUS-0017-000481
+
+${declaration_No}
+${declaration_Id}
+${assesment_Id}
+${assesment_Req_No}
+${assessed_Item_Id}
+
+dataProfile.dataModel.viewInspectionInstructionRemarksList[0].inspectionRequestInstructionId
+
+dataProfile.dataModel.paymentTransactionData.dataProfile.dataList[""0""].paymentTransactionId
+
+dataProfile.dataModel.paymentTransactionData.dataProfile.dataList[0].paymentTransactionId 
+dataProfile.dataModel.paymentBillDetailData.dataProfile.dataList[""0""]
+dataProfile.dataModel.paymentTransactionData.dataProfile.dataList
+dataProfile.dataModel.paymentTransactionData.dataProfile.dataList[""0""].paymentTransactionsNumber
+
+dataProfile.dataModel.paymentBillDetailData.dataProfile.dataList[]
+
+Payments:
+=========
+${bill_Id}
+${bill_No}
+${assesment_No}
+${assesment_Id}
+
+${payment_Id}
+${payment_No}
+${paymentBill_DetailsId}
+${payment_TransactionId}
+${paymentTransactions_Number}
+
+AS-REQ-CUS-0017-000487	BILL-2019-11-21-258	257  newly recording data
+
+
+Release:
+========
+DEC-IMP-B1F-11192019/0000134
+REL-GP-B1F-11252019/0000008  
+${gatePass_Id}
+${gatePassDetail_Id}
+${gatePassDeclaration_Id} ======@ Associate Declarations -- /GatePassDeclaration/NewGatePassDeclaration--- Method
+${gatePassDeclaration_Id1}======@ Assicoate Item  ---GetGatePassDeclarationId?declarationId=${declaration_Id}---Method
+${gatePassDeclarationItem_Id}
+${gatePassEntryExit_Id1}
+${gatePassEntryExit_Id2}
+${declaration_Id}
+${declaration_No}
+
+${declaration_Date}
+${gatePass_Number}
+
+.CSV File :
+
+${declaration_Id}
+${declaration_No}
+${assessed_itemId}
+
+
+
+============================================================================================
+FX NeXT:
+
+Cargo:
+
+${Journey_ID} -----1212
+${Manifest_ID}  ---540
+${BOL_ID}  ----469
+${HBParty_ID}
+${HBItem_ID}----322
+${DO_ID} ---1178
+${DO_No}
+
+${Journey_No}
+${Journey_Date}
+${Manifest_Date}
+${HB_Date}
+
+${Today}
+
+KGAC:
+
+COR_JourneyID
+
+COR_TempJourneyNo
+
+COR_ManifestId
+
+COR_MRNumber
+
+COR_HouseBillId
+
+COR_DeclHBID
+
+COR_AutoBOLNo
+
+COR_HBItemId
+
+
+
+
+=================================================================================
+Declaration-50 Users Execution:
+
+18-04-2019 13:17:30.685    18-04-2019 13:47:01.286
+
+
+Declaration-100 Users Execution:
+
+18-04-2019 17:28:22.389	18-04-2019 18:08:24.596
+
+=============================================================================
+
+200 users execution: DEC-TMP-IMP-B1F-04222019/0000227
+
+===========================================================================
+
+DEC-TMP-IMP-B1F-04222019/0000581
+
+Period: 10:20:20.144 to 11:25:08.923
+Duration: 1:02:10 
+129----Draft Created
+42===Duty Calculated.
+
+
+
+====================================================================================================
+
+50 users- declaration-25-04-2019:
+Period: 25-04-2019 12:50:00.144 to 25-04-2019 13:19:00.923====49 are in duty calculated 1 draft created 
+
+
+100 users- declaration-25-04-2019:
+Period: 25-04-2019 14:45:00.144 to 25-04-2019 15:23:00.923====
+
+
+50 Users: Started at 5:17PM 30-04-2019 on 32 Server.
+
+100 users: Started at 14:37 pm 02-05-2019 to 15:12 on 32 Server.
+** Submited --84
+** Draft Created--13
+total records created: 97
+
+200 Users: Started at 02-05-2019 15:55   02-05-2019 16:43 
+** Submited: 134
+
+
+
+=======================================================================================================
+
+
+
+
+
+
+	
+==================================
+
+50 users @ 4:26 
+
+24:26 Mints.
+
+100 Users: started at 4:54: to 5:28
+
+34: 12 Mints
+
+200 Users: started at 5:31 
+
+51:35
+
+
+
+=====================================16-05-2019================
+
+50 users started at 3:59----Run1
+
+Diration: 32:31 
+
+
+=====================================17-05-2019==================
+
+
+Finished at 6:27 pm , duration: 28:05 sec
+
+
+50 users-Redis Enable started at 6:58
+
+
+
+
+=========================================20-05-2019===================================================
+
+50 users started at 20-05-2019 11:42  ended at 20-05-2019 12:10
+
+Duration: 28:48
+
+100 users, Started at 20-05-2019  1:01 
+
+100 users started at Run2 20-05-2019 1:39 to 20-05-2019 2:15 
+
+150 users stated at Run1 stated at 20-05-2019 2:22pm   to 20-05-2019 03:03pm  to 20-05-2019 3:46 pm
+
+50 users started at 20-05-2019 5:22 pm to 20-05-2019 5:52pm 
+
+
+=============================================21-5-2019===========================================================
+
+50 Users test with enable-SQL-Profiler.... started @ 2:41pm  to  3:04pm
+
+
+
+==============================================13-06-2019=========================================================
+29 Server:
+
+Run1-50 Users:
+50 users started at 3:32 pm and ended at 4:01 
+
+Run2-100 Users:
+100 users started at 4:40 pm and ended at 5:13 pm
+
+\\10.138.108.29\E\JmeterJMX\Declaraation_Process_V2_13062019.jmx
+
+Period: 6/19/2019 7:34:13 PM - 6/19/2019 7:51:05 PM (India Standard Time)
+
+
+Period: 6/20/2019 4:41:10 PM - 6/20/2019 4:57:42 PM (India Standard Time)
+
+Period: 6/20/2019 5:08:44 PM - 6/20/2019 5:25:08 PM (India Standard Time)
+
+
+Period: 6/25/2019 12:31:53 PM - 6/25/2019 12:52:20 PM (India Standard Time) 
+
+=====================================================================
+Period: 6/25/2019 1:20:06 PM - 6/25/2019 1:36:04 PM (India Standard Time)
+
+Maximum Running Vusers:     1 
+
+Total Throughput (bytes):   12,124,933 
+ 
+
+Average Throughput (bytes/second):   12,643 
+ 
+
+Total Hits:   568 
+ 
+
+Average Hits per Second:   0.592 
+
+=====================================================================
+
+
+lr_start_transaction("04_Dec_002_Declaration_Dashboard");
+addDynaTraceHeader("NA=04_Dec_002_Declaration_Dashboard;PC=Main.aspx_2");
+
+
+addDynaTraceHeader("NA=;PC=pprodmyuc.customs.gov.my");
+
+
+
+Period: 6/27/2019 1:20:06 PM - 6/27/2019 1:21:31 PM (India Standard Time)
+
+
+=====================================================================
+
+
+C:\Users\cgodugu.LOGISTICSDEV\Desktop\FX-NeXT-JMeter\12062019\Cargo\Cargo_DO_Issue_V6_19062019.jmx
+
+
+
+C:\Users\cgodugu\Desktop\FX-NeXT-LR\29Server\Cargo_50Users_29Server_12072019
+
+
+
+==========================================================================
+
+
+java -jar "C:\Program Files\Java\jre1.8.0_181\lib\Dt-LoadRunner-request-tagging-1.1.2.jar" insert -path C:\Users\cgodugu.LOGISTICSDEV\Desktop\FX-NExT-LR\29Serv\Cargo_DO_FineTuned_12072019
+
+
+
+==========================================================================
+
+1. Cargo-50 Users-32 Server: 3:52  to 4:00 pm
+
+2. Cargo-50 Users-32 Server: 4:03 to 
+
+
+
+=============================================================================
+
+
+DevOps-LoadTest Path:
+=====================
+
+LR: \\10.138.108.29\E$\DevOps_LoadTesting\LoadRunner\Controller-Scenarios\Cargo_50Users_19072019.lrs
+
+JMeter: \\10.138.108.29\E$\DevOps_LoadTesting\JMeter\Cargo_32Server_Tuned_19072019.jmx
+
+
+=========================================================================================
+
+JMeter Executions: 31-07-2019 
+
+5 USers:
+
+10 Users: 2:54 to 3:03
+
+15 Users: 3:08 to 3:17
+
+
+=========================================================================13-08-2019===================
+ERRORS:  50 Users:
+==================
+Create_Invoice_Item: Error -26631: HTTP Status-Code=400 (Bad Request) for "http://10.138.108.32:8007/nonCoreApi/api/InvoiceItem/OpenInvoiceItem?id=null"
+
+Calculate_Duty: Error -26610: HTTP Status-Code=502 (Bad Gateway) for "http://10.138.108.32:8007/nonCoreApi/api/DeclarationProcess/SubmitDutyDeclaration"
+
+Submit_To_Customs: Error -26610: HTTP Status-Code=502 (Bad Gateway) for "http://10.138.108.32:8007/nonCoreApi/api/DeclarationProcess/OpenDutyDeclaration?id=1240"
+
+Submit_To_Customs: Error -26610: HTTP Status-Code=502 (Bad Gateway) for "http://10.138.108.32:8007/nonCoreApi/api/DeclarationProcess/OpenDutyDeclaration?id=1238"
+
+Submit_To_Customs: Error -26610: HTTP Status-Code=502 (Bad Gateway) for "http://10.138.108.32:8007/nonCoreApi/api/DeclarationProcess/OpenDutyDeclaration?id=1243"
+
+
+
+===================================Declaration--- 29 Server(QA)---------------------------------------------------------------------------------------------------
+
+50 Users: 
+
+06-09-2019 1:02 pm  to 06-09-2019 1:07 pm
+
+100 Users: 
+
+06-09-2019 1:09 pm to 06-09-2019 1:16 pm
+
+200 Users: 
+06-09-2019 1:18 pm to 06-09-2019 1:30 pm 
+
+
+
+========================================================J Meter Execution from CMD Line=====================================================================
+C:\Users\cgodugu>D:
+
+1. D:\>cd D:\apache-jmeter-5.0\apache-jmeter-5.0\apache-jmeter-5.0\bin
+
+2. jmeter -n -t D:\FX-NeXT-BackUp\Latest-Scripts-BackUp\JMeter\Declaration_29Server_V3_05092019.jmx -l D:\Sample\test1.csv -e -o D:\Sample\HTML(folder Name)
+
+jmeter -n -t D:\JMeter_5.0_Scripts\Cargo_V4_23092019.jmx -l D:\JMeter_5.0_Scripts\ExecutionResults\Cargo\CSV\1.csv -e -o D:\JMeter_5.0_Scripts\ExecutionResults\Cargo\HTML\SmokeTesst
+
+SCripts Execution:
+
+jmeter -n -t D:\JMeter_5.0_Scripts\Cargo_08112019_Tuned.jmx -l D:\JMeter_5.0_Scripts\ExecutionResults\Cargo\CSV\Cargo200Users_08112019.csv -e -o D:\JMeter_5.0_Scripts\ExecutionResults\Cargo\HTML\Cargo200Users
+
+D:\JMeter_5.0_Scripts\Cargo_08112019_Tuned.jmx
+D:\JMeter_5.0_Scripts\Declaration_Tuned_08112019.jmx
+
+jmeter -n -t D:\JMeter_5.0_Scripts\Scripts\29Server-Modified-32Server\Cargo_24122019_Tuned.jmx -l D:\JMeter_5.0_Scripts\Scripts\29Server-Modified-32Server\CSV Results\Cargo50Users_24122019.csv -e -o D:\JMeter_5.0_Scripts\Scripts\29Server-Modified-32Server\HTML\Cargo50Users
+
+=================================================================MC-NeXT Documents location:========================================================================
+
+\\10.138.108.35\MicroClearNExTDocs\MicroClear NEXT\MicroClear NEXT\MICROCLEAR NEXT
+
+
+==================================================================Executions-=======08112019===========================================================================================
+
+Cargo-200Users:
+
+12:32 pm  to 12:49
+
+
+Declaration-200Users:
+
+12:57 pm  t0 13:15 
+
+========================================================================================================================
+
+Inspections-200 users started at 15-11-2019 13:00 pm  to 15-11-2019 13:13 pm 
+
+Inspection--50 users started at 15-11-2019 17:50 pm 
+
+
+Payments: at 200 users started at 22-11-2019 6:28 pm to 6:45 pm 
+
+
+
+================================================Inspection Query for Assessment script execution====================
+
+select d.DeclarationId,d.DeclarationNumber, a.AssessmentRequestId,a.AssessmentRequestNumber,ai.AssessedItemId,CONVERT(date, aw.ModifiedDate)
+ from assessment.AssessmentRequest a join 
+assessment.AssessedItem ai on a.AssessmentRequestId =ai.AssessmentRequestId join
+assessment.AssessmentRequestWF aw on a.AssessmentRequestId = aw.ProfileInstanceId join
+declaration.Declaration d on d.DeclarationId = a.DeclarationId
+where aw.StateName ='Assessment required' and aw.IsCompleted=0 and CONVERT(date, aw.ModifiedDate) = '2019-11-27'
+
+==============================================================================================================================
+TEST DATA:
+1. Declaration 500 users started at 19:15 pm 19:50 pm
+2. Inspections 300 users started at 300 with 2000 ....started at 29-11-2019 12:30pm to 14:29 pm
+
+======
+1. Declaration started fot testdata at 29-11-2019 15:05 pm to 15:30 pm
+
+
+================================================================================================================================
+
+Relase 200 users-600 secs ----Started at 05-12-2019 19:30 pm to 05-12-2019 20:00 pm
+
+
+========================================================================================================
+
+Declaration Ran for 500 users for Test DATA of Combined at 12-12-2019 15:35 to 12-12-2019 17:22  on 32 Server 
+
+
+
+===============================================================================================================================
+
+Inspection:
+inspection_Id,inspection_No,declaration_Id,declaration_No 
+
+Assessments:
+declaration_Id,declaration_No,assesment_Id,assesment_Req_No,assessed_Item_Id
+
+Payments:
+bill_Id,bill_No,assesment_Id,assesment_No
+
+Release:
+declaration_Id,declaration_No,assessed_itemId
+
+Combined Scenario started at 13-12-2019 15:38 to 13-12-2019 16:10 pm for 120 users===each scneario for 20 users.
+
+================================================================Non GUI Execution ===============================================================
+
+jmeter -n -t D:\JMeter_5.0_Scripts\Scripts\29Server-Modified-32Server\Cargo_24122019_Tuned.jmx -l D:\JMeter_5.0_Scripts\Scripts\29Server-Modified-32Server\CSV Results\Cargo50Users_24122019.csv -e -o D:\JMeter_5.0_Scripts\Scripts\29Server-Modified-32Server\HTML\Cargo50Users
+
+jmeter -n -t D:\JMeter_5.0_Scripts\Scripts\32Server-06Jan2020\Cargo_06012020_200Users_NonGUI_Tuned.jmx -l D:\JMeter_5.0_Scripts\Scripts\32Server-06Jan2020\Cargo-200Users-CSV\Cargo200Users_06012020.csv -e -o D:\JMeter_5.0_Scripts\Scripts\32Server-06Jan2020\Cargo-200Users-HTML\Cargo200Users
+
+
+====================================================================Executions-06012019=========================================================
+
+Cargo 200 Users @ 06-01-2020 13:03 pm to 06-01-2020 13:20 pm 
+
+Declaration 200 users @ 06-01-2020 14:23 pm to  06-01-2020 14:40 pm 
+
+Declaration 200 users @ 06-01-2020 15:07 pm to 06-01-2020 15:24 pm
+
+Inspection 200 users @ 06-01-2020 15:45 pm to 06-01-2020 16:15 pm 
+Inspection 175 users @ 06-01-2020 19:00 pm to 
+
+Assessment 200 users @ 07-01-2020 12:05 pm to 07-01-2020 12:25 pm
+Payments 200 users @ 07-01-2020 14:40 pm to  07-01-2020 14:55 pm
+Release 200 Users @ 07-01-2020 16:35 pm to 07-01-2020 17:02 pm
+
+
+
+==================================================================LEAGAL HEIR CASE======================================
+
+case no: 9/2020
+
+hearing Date :05-03-2020 
+
+=============================================================08-01-2020==========================================================
+
+Combined Scenarios execution for 200 users:
+
+Load Distribution:
+===================
+
+
+
+Declaration started 200/300 Rampup users at .. 08-01-2020 11:45 to 12:02 pm
+
+Inspections-125/300 RampUp users started at 08-01-2020 12:30 to 13:01
+
+Assessment-80 users started at 08-01-2020 14:18 to 14:38 
+
+Payments-50 Users started at 08-01-2020 14:55 to 15:15 pm 
+
+Combined 200 users started at 15:52 pm to 16:31 pm ....Duration: 00:37:43
+
+Max worker processors :2
+
+1.Cargo--40 Users
+2.Declaration--40 Users.
+3.Inspection--30 Users.
+4.Assessment--30 Users.
+5.Payment--30 Users.
+6.Release--30 User.
+
+==============================================================================================================================================
+
+
+PWC Technologies � Command Center <cc.ops@agility.com> 
+
+
+
+=================================14-01-2020===================================================================================================
+
+Cargo 200 users @ 14-01-2020 12:42  to  to 14-01-2020 12:59 pm.====Run1
+Cargo 200 users @ 14-01-2020 14:40 pm   to  to 14-01-2020 14:58 pm.====Run2
+
+Declaration 200 users @ 14-01-2020 15:45  to  to 14-01-2020 16:05 pm.====Run1
+Declaration 200 users @ 14-01-2020 16:07  to  to 14-01-2020 16:25 pm.====Run1
+
+Inspection 200 users @ 20-01-2020 17:30 pm 
+to 20-01-2020 18:06 pm 
+
+MCN-NeXT-JMeter: Cargo,Declaration and inspection scripts modifying and bug fixing on QA Server(29 Server)Since 32 server is using for Bahrain Demo.
+===================================================================================================================================================
+
+
+MCN-NeXT-JMeter:  Scripts modification  and bug fixing on QA Server-29 Server and JMeter Scripts integrating with Jenkins Pipeline on 32Server.
+
+
+\\10.138.108.32\E$\LoadTest-JMeter-Jenkins\Cargo\Cargo_07022020_32Server.jmx
+	\\E$\LoadTest-JMeter-Jenkins\Cargo\Cargo_07022020_32Server.jmx
+
+
+\\10.138.108.32\E$\LoadTest-JMeter-Jenkins\Declaration\Declaration_10022020_32Server.jmx
+	E:\LoadTest-JMeter-Jenkins\Declaration\Declaration_10022020_32Server.jmx
+
+
+
+====================================================================================================================================================
+Declaration---200 users @ 12:35 19-02-2020 12:50 pm 
+
+============================================LTA====================================================================================================
+LRI-62991
+
+Date: Feb13th to Feb 18th20  
+
+Hyderabad to Jaipur: 1450 km
+
+Jaipur to Hyderabad: 1450 km
+
+Total Distance: 2900* 14 Rs= 39,200 Rs
+
+Driver Beta: 3000
+
+Total: 42,200 Rs.
+
+
+=================================================================SEZ Project=======================================================================
+
+http://10.138.108.28:8040/Account/Login
+
+WarehouseOperator@bus.org
+WHAuthority@Customs.gov 
+
+
+Registration Officer Login Id :
+SCZoneRegistrationOfficer@customs.gov
+pwd:Agility@123
+
+bgutru@agility.com
+
+
+SC Zone Admin Login Id : �SCZoneAdmin@customs.gov
+pwd:Agility@123
+
+?????
+
+abcd@Agility.com
+
+REG-BRO-2020-2-000020
+
+
+===================================================================================================================================================
+VPN : Jn.princily   Kg@c#1248
+
+200 users started at 2:52 pm to 
+
+3:03 pm 3:08 pm 
+
+3:25 pm to 3:32 pm 
+
+=========================================================
+
+http://10.138.108.32:8040/acc.
+
+????
+
+SrPatlolla@agility.com 
+
+Agility@123
+${user_Access_Token}
+
+${allowedItem_DetailId}
+
+${allowedItem_Number}
+
+${itemControl_Id}
+;40${itemController_Number}
+
+${suretyDetail_Id}
+${surety_Number}
+
+200 users ORGManagement started at 04-03-2020 12:45 pm  to 04-03-2020 13:10 pm.
+
+${pccForm_Id}
+${pccForm_Number}
+
+200 users PCC Forms started 05-03-2020 11:33 am to 
+05-03-2020 11:45 am 
+
+Combined (OGM and PCCForms)200 users 05-03-2020 16:10 pm to 05-03-2020 16:35 pm 
+
+==============================================================JMeter Script Execution From Command Line=======================================
+
+jmeter -n -t�D:\JMeter_5.0_Scripts\Scripts\Sample\Sample.jmx�-l�D:\JMeter_5.0_Scripts\Scripts\Sample\Reports\CSV\sample.csv�� -e -o�D:\JMeter_5.0_Scripts\Scripts\Sample\Reports\HTML
+
+
+============================================================RMS-12-03-2020--==================================================================================
+
+
+
+http://10.138.108.28:8030
+
+riskanalyst@customs.gov>>> Create,Configuration and Profile of Risks.
+
+	* Risk Register
+	* Risks
+	* Risk Profiling
+
+riskmanager@customs.gov >>> Approve 
+Agility@123
+
+1. Risk Register:
+	RRC_0263
+	1687
+===========================================20-03-2020=================================================
+RRC_0265
+
+
+nSrA2zwYs88r8vryvRMwbH1U3ckzql_RBKPcrRgymxbIJw05ZQAG6VqF4EG_zGydb6xi2jR1HT2_KBJ0O7VIFBebBo-lLjU3lS_FKM
+
+CfDJ8HWpdOAXuP1Jn4GKlZ9a4RkvRddteUS52pL6nAEok4LYXZM8_nSrA2zwYs88r8vryvRMwbH1U3ckzql_RBKPcrRgymxbIJw05ZQAG6VqF4EG_zGydb6xi2jR1HT2_KBJ0O7VIFBebBo-lLjU3lS_FKM
+
+CfDJ8HWpdOAXuP1Jn4GKlZ9a4RklXRhEqYBvZqK8C82GUeJ4coTnajp5gkwj_mcahcvblTkHXA6KpKFbWTfttOzYu70K0fiOYWBGK926wlsPZI5Cx7j-VZj1tJO_AEab9F1y0JJaw0Z9nzLrs_Clnog2oeM
+	
+	
+=====================================================================
+
+
+437 233 731 
+
+
+===============================23-03-2020----MCN Load Testing================
+
+
+1.Ship Clearance
+2.Permitts
+	PermitAdmin@oga.com
+3.BWH 
+	User: warehouseoperator@bus.org
+4. RMS
+
+
+IDP--Identify provider 
+
+
+============================
+SCZone Load Testing Scenarios:
+
+Registrations>>User Registration
+
+	1.Investor
+	2.Broker
+	3.Authority
+	4.Customs
+	5.OGA
+	6.PCCForms
+
+
+https://agilitypwc.webex.com/meet/srpatlolla
+
+
+
+
+
+
+http://10.138.108.29:9020/Account/Login�( QA Site)
+http://10.138.108.40:30200/Account
+ShippingAgentPan@pos.com.my
+TraderFalconTrader@fg.com===
+
+
+User Id:Trading@AlexTraders.com===Right user
+
+HS Code: 8475.10.1000
+
+Currency: USD 
+
+
+
+============================================================================Non GUI Execution==========================================================
+
+
+jmeter -n -t D:\JMeter_5.0_Scripts\Scripts\29Server-Modified-32Server\Cargo_24122019_Tuned.jmx -l D:\JMeter_5.0_Scripts\Scripts\29Server-Modified-32Server\CSV Results\Cargo50Users_24122019.csv -e -o D:\JMeter_5.0_Scripts\Scripts\29Server-Modified-32Server\HTML\Cargo50Users
+
+jmeter -n -t D:\JMeter_5.0_Scripts\Scripts\32Server-06Jan2020\Cargo_06012020_200Users_NonGUI_Tuned.jmx -l D:\JMeter_5.0_Scripts\Scripts\32Server-06Jan2020\Cargo-200Users-CSV\Cargo200Users_06012020.csv -e -o D:\JMeter_5.0_Scripts\Scripts\32Server-06Jan2020\Cargo-200Users-HTML\Cargo200Users
+
+C:\Users\cgodugu\Desktop\MCN-LR\MCN-JMeter\Cargo\CSV-Results\Carg-Demo-Results-08092020.csv
+C:\Users\cgodugu\Desktop\MCN-LR\MCN-JMeter\Cargo\HTML-Results
+
+NON GUI Execution:
+jmeter -n -t C:\Users\cgodugu\Desktop\MCN-LR\MCN-JMeter\Cargo\Cargo_Tuned_08092020.jmx -l C:\Users\cgodugu\Desktop\MCN-LR\MCN-JMeter\Cargo\CSV-Results\Carg-Demo-Results1-08092020.csv -e -o C:\Users\cgodugu\Desktop\MCN-LR\MCN-JMeter\Cargo\HTML-Results\Cargo-Demo-HTML1-08092020
+
+
+HTML Report Generation:
+jmeter -g C:\Users\cgodugu\Desktop\MCN-LR\MCN-JMeter\Cargo\CSV-Results\Carg-Demo-Results1-09092020.csv -o C:\Users\cgodugu\Desktop\MCN-LR\MCN-JMeter\Cargo\HTML-Results\Cargo-Demo-HTML1-09092020
+
+jmeter -g C:\Users\cgodugu\Desktop\MCN-LR\MCN-JMeter\Cargo\CSV-Results\Cargo-LinuxServer-1User-17092020.csv -o C:\Users\cgodugu\Desktop\MCN-LR\MCN-JMeter\Cargo\HTML-Results\Cargo-LinuxServer-1User-HTML1-17092020
+
+
+
+1800 258
+
+1860 3000 1600
+
+1800 108 4747
+
+
+==========================================================================================
+
+Please find the below details for the same.
+
+1.	Hostname � INHYDDMCNXT1
+IP Address � 10.138.70.6
+Username � MCNXT1
+Password � Will Share through Lync
+
+2.	Hostname � INHYDDMCNXT4
+IP Address � 10.138.70.16
+Username � MCNXT4
+Password � Will share through Lync
+
+Note : These desktops are in ICS VLAN. Please check and let us know if any issues.
+
+
+Password: pass@1234 for both machines.
+=========================================================================================
+
+http://10.138.108.40:30200/Account
+
+
+
+Reference No.
+
+DEC-IMP-B1F-09232020/0000073
+
+
+==================================
+
+BOL9999       JRN-I-S-B1F-09222020/0001030  DEC-IMP-B1F-09232020/0000074
+
+Inspection Request No: INS-REQ-B1F-09232020/0000016  Inspection Report No:INS-REP-B1F-09232020/0000014
+
+Poperator@Disano.com
+
+PORT KLANG (PELABUHAN KLANG)- NORTH (SEA)
+
+
+DEC-IMP-B1F-09232020/0000076
+
+InspectionInspector@customs.gov
+
+sos
+
+
+
+
+
+=============================================================================
+
+https://agility.zoom.us/j/9573697775 (Password: 1111110010)
+
+ttps://agility.zoom.us/j/9573697775 (Password: 1111110010)
+
+258963
+
+
+https://agility.zoom.us/j/9573697775 (Passcode: 258963
+
+Nilesh Garje is inviting you to a scheduled Zoom meeting.
+
+Join Zoom Meeting
+https://agility.zoom.us/j/9573697775
+
+Meeting ID: 957 369 7775
+Passcode: 258963
+
+
+
+info.kmeast@gmail.com
+
+ 
+
+
+auppal@uppalpandher.com
+kpandher@uppalpandher.coom
+
+
+
+10.138.71.155 New Laptop IP
+
+===================================Book mark Sites =========================================
+http://10.138.108.27:8005/tfs/DefaultCollection/suez-canal-zone/_git/testing (logisticsdev\cgodugu pwd:Reset345(Laptop login userid))
+
+http://10.138.108.28:8040/Account SCZ QA Site
+
+https://wiki.agility.com/display/SCZ/Developer+PC+Setup
+
+
+https://pwctepm.agility.com/PWA/Timesheet.aspx
+
+https://transfora.agility.com/inbox/LeaveRequestIndia110160/LRI-51399
+
+http://eformsbi.agility.com/DotnetPages/ReportsEngine/Home.aspx
+
+https://www.ziprecruiter.in/jobs/search?l=Anywhere&q=Software+performance+tester&remote=full&utf8=%E2%9C%93
+
+
+
+https://www.youtube.com/watch?v=5Z5Q3ZvOEj8&list=PLCbzEkWetVXwfPtrQ8CFFEeWFSkIMGuDO   ====AWS
+
+https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/learn/lecture/17009488#overview  ====udemy----AWS
+
+https://en.savefrom.net/1-youtube-video-downloader-4/  youtube download
+
+https://www.youtube.com/watch?v=05tLVmLe4LI ====devops telugu edureka..
+
+https://datacadamia.com/jmeter/directory#source_code_directory_structure   jmeter source code structure directory
+
+============================================================================================================================
+
+https://www.katacoda.com/courses/docker/deploying-first-container#!
+
+
+
+
+Most white collar jobs in Portugal are in Lisbon, sometimes Porto. Technical jobs or IT people can also look for jobs around Braga (North) and Aveiro (Center) as big companies are located in those areas and there�s always demand for engineers and computer people.
+
+
+================================
+
+Cargo execution on MCN-QA Site 03112020 20:00 pm to 24:00 pm 
+
+Declaration Execution on MCA QA Site--04112020 20:00 pm to 20:18 pm
+
+Declaration Execution on MCA-QA Site--05112020 19:15 pm to 19:35pm
+
+
+
+rmi_keystore.jks
+
+
+============================
+
+Srikanth Poosala: 1pm 09-11-2020
+
+Sanjeevaiah: 2pm 
+
+Nagaraju: 3:30 pm 
+
+Prathyusha Nallamalla: 4pm 
+
+========================================SCZone Scripts ---09-11-2020======================================================
+
+
+This is the SC Zone URL: 
+http://10.138.108.32:8040/Account/Login 
+
+SCZoneRegistrationOfficer@sczone.com
+ 
+????? ????? ???????
+
+?????
+???? ????? ???? ???????? ????
+
+ 
+
+=========================================================AWS Cloud Practioner ==================================================================
+
+https://www.youtube.com/watch?v=5Z5Q3ZvOEj8&list=PLCbzEkWetVXwfPtrQ8CFFEeWFSkIMGuDO&index=1
+
+==========================================================================================================================
+https://agility.zoom.us/j/6506774189 (Passcode: 3CyOCG)
+
+==========================================================================================================================
+
+
+Hostname � INHYDDMCNXT1
+IP Address � 10.138.70.6
+Username � MCNXT1
+Password � Will Share through Lync
+
+2.	Hostname � INHYDDMCNXT4
+IP Address � 10.138.70.16
+Username � MCNXT4
+Password � pass@1234 
+
+Note : These desktops are in ICS VLAN. Please check and let us know if any issues.
+
+
+Password: pass@1234 for both machines.
+
+
+Teamviewer:
+===========
+
+593 323 465
+i8qy52 
+
+
+https://agility.zoom.us/j/96433635701 (Passcode: 884129) 
+
+radccs.kgac.gov.kw
+kgac-
+KGAC-DC-HYD-DEV
+group name
+ka.mohan
+Kkm$hyD#301120 
+ca.godugu
+CG#Hy@121520
+
+
+prepare script using JMeter till declaration submission approval, and in Risk target we have a functionality called "Analyze Target" 
+
+[?12/?15/?2020 4:57 PM]  Ramesh Bandaru:  
+hi Chandra, on Bayan Approval, we need to record the RMS engine performance also
+ 
+[?12/?15/?2020 4:58 PM]  Chandra Godugu:  
+Ok Andi
+ 
+
+use http://10.10.26.216:94/main.aspx site 
+for analyze target use inv.rms1, and pwd: pprms
+nas.csa
+broker.kwi
+customs.kwi or hadi.a
+aa.alrashidi  RMS Complex Analysis User 
+
+[?12/?15/?2020 6:42 PM]  Johnson Princily:  
+AssessmentUser 
+ 
+
+
+
+
+TMRN/12664/KWI20
+
+House bills country of origin...  Risk at Country of Shipping
+
+AG FR GB IN US
+
+Port of ORigin manifest
+
+Port of shipping  house bills ..
+
+
+ DRUGS AND PRECURSORS SECURITY   ??? ????? ?????? ????? 
+
+  HS Code Name 
+   0031.08.52 ? ? ??? ???? ? ????? ????? ?????? ???? ???? ?? 100?? 
+     
+   0202.10.00 - Carcasses and half-carcasses  
+     
+   0202.20.00 - Other cuts with bone in  
+     
+   0202.30.10 - - - Minced 
+     
+   0202.30.90 - - - Other;- Boneless:;Meat of bovine animals, frozen. 
+     
+   0203.11.00 - - carcasses and half-carcasses  
+     
+   0203.12.00 - - Hams, shoulders and cuts thereof, with bone in  
+     
+   0203.19.00 - - Other;- Fresh or chilled:;Meat of swine, fresh, chilled or frozen. 
+     
+   0203.21.00 - - Carcasses and half-carcasses  
+     
+   0203.22.00 - - Hams, shoulders and cuts thereof, with bone in  
+
+MRN/12435/KWI20
+DO/112940/KWI20 51736642
+
+MRN/12436/KWI20  DO/112941/KWI20
+
+DeliveryOrderNumber="DO/112941/KWI20" IdNo="91844756" 
+
+0101.21.10 ---Duty is not calculating for this HSCode.
+United States Of America 
+10000 
+10000 
+
+9702.00.00---Duty is calculating
+
+TIM/72026/KWI20
+
+
+\\10.138.70.16\C$\Users\MCNXT4\Desktop\MachineTest\Venu
+
+[?12/?20/?2020 10:34 AM]  KrishnaMohan Kurla:  
+https://agility.zoom.us/j/95218611998 (Passcode: 693624) 
+ 
+DO/112973/KWI20  62339722
+
+
+==========================================================
+
+Select * From Payments
+Select * From PaymentTransactions
+Select * From Checks
+Select * From ReceiptAmountBreakdown 
+
+AccountId="1272"
+
+
+
+10.10.127.151 
+216 DB Details
+username and password :mcweb
+
+DB Name : MicroClearKW_P3Pro_RMS3 
+
+
+====================================================================
+KrishnaMohan Kurla:  
+https://agility.zoom.us/j/94546682667 (Passcode: 261008) 
+
+====================================================================
+ 
+
+[?1/?12/?2021 6:03 PM]  Johnson Princily:  
+http://10.10.26.217:94/Main.aspx
+nas.csa rms123
+
+
+[?1/?12/?2021 6:03 PM]  Johnson Princily:  
+http://10.10.26.217:94/Main.aspx
+pprms
+pp123
+Invoicenumber2020
+Invoice number as - INVOICENUMBER2020
+ 
+[?1/?12/?2021 6:05 PM]  Johnson Princily:  
+declaration vehicle list chassisnumber  as CHASSISNUMBER11
+HS.code Description - GroupName_Restricted Item
+IM/70537/KWI21      TIM/72032/KWI21 
+ 
+
+ http://10.138.108.44/MCKWFX5Test/Main.aspx 
+
+10 users execution: 12:04 am to 12:10 
